@@ -1,3 +1,5 @@
+package part1Inheritance;
+
 public class Employee {
     // Instantiate variables
     private String firstName;
