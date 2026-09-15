@@ -44,6 +44,7 @@ public class Course {
                 "Course name: " + getCourseName()
                         + ", Instructor: " + getInstructor().getFirstName() + " " + getInstructor().getLastName()
                         + ", Textbook: " + getTextbook().getTitle()
-                        + ", Author: " + getTextbook().getAuthor());
+                        + ", Author: " + getTextbook().getAuthor()
+                        + ", Publisher: " + getTextbook().getPublisher());
     }
 }
